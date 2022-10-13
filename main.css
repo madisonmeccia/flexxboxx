@@ -16,12 +16,12 @@ body{
 .header1 {
   color: darkslateblue;
   font-size: 2rem;
-padding-left: 32rem;
+padding-left: 27rem;
 }
 .headers {
-  color:palevioletred;
+  color:cornflowerblue;
   font-size: 3rem;
-  padding-left: 39rem;
+  padding-left: 35rem;
 }
 
 .flex{
