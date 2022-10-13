@@ -16,12 +16,12 @@ body{
 .header1 {
   color: darkslateblue;
   font-size: 2rem;
-padding-left: 30rem;
+ margin-left: 43rem;
 }
 .headers {
   color:brown;
   font-size: 3rem;
-  padding-left: 42rem;
+  margin-left: 48rem;
 }
 
 .flex{
@@ -91,6 +91,6 @@ color: chocolate
   position: relative;
   object-fit: contain;
   align-content: flex-start;
-  padding-left: 11rem;
+  padding-left: 8rem;
   padding-top: 5rem;
 }
